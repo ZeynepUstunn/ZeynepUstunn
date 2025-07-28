@@ -36,9 +36,9 @@ Lisans eğitimimi %100 İngilizce alıyorum ve üniversite hayatım boyunca hem 
 
 ## 🔗 Sosyal Medya & Bağlantılar
 
-- [LinkedIn](https://www.linkedin.com/in/zeynep-ustun)
-- [Medium](https://medium.com/@zeyustun8)
-- [GitHub](https://github.com/ZeynepUstunn)
+- [[LinkedIn](https://www.linkedin.com/in/zeynep-ustun)](https://www.linkedin.com/in/zeynep-ustun01/)
+- [[Medium](https://medium.com/@zeyustun8)](https://medium.com/@zeyustun8)
+- [[GitHub](https://github.com/ZeynepUstunn)](https://github.com/ZeynepUstunn)
 
 💬 Yeni projelere ve iş birliklerine her zaman açığım. Profilimi ziyaret ettiğin için teşekkürler!
 
