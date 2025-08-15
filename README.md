@@ -9,6 +9,7 @@ Lisans eğitimimi %100 İngilizce alıyorum ve üniversite hayatım boyunca hem 
 - Java, Python, C ve C++ dillerinde uygulamalar ve projeler geliştirdim.
 - Web tasarımı, mobil uygulama geliştirme ve oyun geliştirme alanlarına ilgi duyuyorum.
 - Tübitak-SAGE’de gömülü yazılım stajı yaparak C++ ile network programlama ve sensör verileri üzerine çalıştım.
+-  Veri bilimi ve yapay zeka konularına özel ilgi duyuyor, bu alanlarda kendimi geliştirecek eğitimler ve projelerde yer alıyorum.
 - Aktif bir öğrenme süreci içindeyim; çeşitli gönüllü organizasyonlar ve teknoloji topluluklarında yer alıyorum.
 
 ## 🚀 Projelerimden Bazıları
@@ -30,7 +31,7 @@ Lisans eğitimimi %100 İngilizce alıyorum ve üniversite hayatım boyunca hem 
 ## 🧠 Yetenekler
 
 - Programlama Dilleri: Java, Python, C, C++
-- Geliştirme Alanları: Web Geliştirme, Mobil Geliştirme, Gömülü Sistemler, Oyun Geliştirme
+- Geliştirme Alanları: Web Geliştirme, Mobil Geliştirme, Gömülü Sistemler, Oyun Geliştirme , Veri Bilimi, Yapay Zeka
 - Araç ve Teknolojiler: Git, GitHub, Unity, HTML/CSS/JS
 - Yetenekler: Takım Çalışması, Liderlik, Sosyal İletişim
 
