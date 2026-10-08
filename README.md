@@ -30,22 +30,22 @@ Yapay zeka, bilgisayarlı görü (computer vision), gömülü sistemler ve moder
 
 ### 🚀 Öne Çıkan Projelerim
 
-* 🏛️ **[Akıllı Belediye Sistemi (Bitirme Projesi)]**  
+* 🏛️ **Akıllı Belediye Sistemi (Bitirme Projesi)**  
   Vatandaş şikayetlerini YOLOv5 ve TensorFlow modelleriyle otomatik sınıflandıran, yerel yönetimler için veri seti üreten Flutter & Firebase tabanlı akıllı mobil platform.
 
-* 📊 **[İdeal Mola Süresi ve İş Memnuniyeti Tahmin Modeli]**  
+* 📊 **İdeal Mola Süresi ve İş Memnuniyeti Tahmin Modeli**  
   Çalışanların davranışsal ve performans verilerini analiz ederek Random Forest ve Gradient Boosting algoritmalarıyla optimum mola süresi ve memnuniyet tahmini yapan ML projesi.
 
-* 🧩 **[3D Sentetik Veri & Video İşleme Pipeline'ı (Spikedge)]**  
+* 🧩 **3D Sentetik Veri & Video İşleme Pipeline'ı (Spikedge)**  
   Blender Python API ile yapay zeka modelleri için 3D sentetik veri üretimi otomasyonu ve OpenCV video işleme hattı.
 
-* 📡 **[Sensör Verisi Toplama ve Entegrasyon (TÜBİTAK-SAGE)]**  
+* 📡 **Sensör Verisi Toplama ve Entegrasyon (TÜBİTAK-SAGE)**  
   C++ ile donanım sensör verilerinin gerçek zamanlı toplanması, filtrelenmesi, performans optimizasyonu ve hata ayıklama süreçleri.
 
-* 🌐 **[Psikolog & Danışan Web Platformu]**  
+* 🌐 **Psikolog & Danışan Web Platformu**  
   Kullanıcı profilleri, dinamik randevu takvimi ve terapi içerikleri sunan responsive web platformu (HTML, CSS, JavaScript).
 
-* 🕹️ **[Unity VR/AR Etkileşimli Oyun Projeleri]**  
+* 🕹️ **Unity VR/AR Etkileşimli Oyun Projeleri**  
   Unity ve Vuforia SDK kullanılarak geliştirilen hedef takipli sanal ve artırılmış gerçeklik oyun mekanikleri.
 
 ---
