@@ -1,17 +1,17 @@
 # 👩‍💻 Merhaba! Ben Zeynep Üstün
 
 🎓 **Ankara Yıldırım Beyazıt Üniversitesi Bilgisayar Mühendisliği** mezunuyum (2021 - 2026).  
-Yapay zeka, bilgisayarlı görü (computer vision), gömülü sistemler ve modern yazılım mimarileri üzerine çalışıyor; veriyi ve algoritmaları uçtan uca çözümlere dönüştürüyorum[cite: 6].
+Yapay zeka, bilgisayarlı görü (computer vision), gömülü sistemler ve modern yazılım mimarileri üzerine çalışıyor; veriyi ve algoritmaları uçtan uca çözümlere dönüştürüyorum.
 
 ---
 
 ### 💼 Hakkımda
 
-- 🤖 **Yapay Zeka & Bilgisayarlı Görü:** YOLOv5, TensorFlow ve OpenCV ile nesne tespiti, görüntü işleme ve derin öğrenme pipeline'ları geliştiriyorum[cite: 6].
-- 🧩 **3D Simülasyon & Sentetik Veri:** Spikedge A.Ş. (Ulutek Teknopark) bünyesindeki stajımda, Blender Python API otomasyonları ile model eğitimi için 3D sentetik veri setleri ürettim ve video işleme süreçlerini optimize ettim[cite: 6].
-- 📡 **Gömülü Sistemler & Sensör Verisi:** TÜBİTAK-SAGE stajımda C++ ile gerçek zamanlı sensör verisi okuma, filtreleme ve donanım-yazılım entegrasyonu üzerine çalıştım[cite: 6].
-- 📱 **Mobil & Web Geliştirme:** Flutter/Firebase altyapısıyla çapraz platform akıllı mobil sistemler ve kullanıcı odaklı web çözümleri üretiyorum[cite: 6].
-- 🤝 **Liderlik & Topluluk:** Biltek AI Kulübü Kurucu Üyeliği ve Sosyal Medya Yöneticiliği ile teknik içerik üretimi ve topluluk koordinasyonu süreçlerinde yer aldım[cite: 6].
+- 🤖 **Yapay Zeka & Bilgisayarlı Görü:** YOLOv5, TensorFlow ve OpenCV ile nesne tespiti, görüntü işleme ve derin öğrenme pipeline'ları geliştiriyorum.
+- 🧩 **3D Simülasyon & Sentetik Veri:** Spikedge A.Ş. (Ulutek Teknopark) bünyesindeki stajımda, Blender Python API otomasyonları ile model eğitimi için 3D sentetik veri setleri ürettim ve video işleme süreçlerini optimize ettim.
+- 📡 **Gömülü Sistemler & Sensör Verisi:** TÜBİTAK-SAGE stajımda C++ ile gerçek zamanlı sensör verisi okuma, filtreleme ve donanım-yazılım entegrasyonu üzerine çalıştım.
+- 📱 **Mobil & Web Geliştirme:** Flutter/Firebase altyapısıyla çapraz platform akıllı mobil sistemler ve kullanıcı odaklı web çözümleri üretiyorum.
+- 🤝 **Liderlik & Topluluk:** Biltek AI Kulübü Kurucu Üyeliği ve Sosyal Medya Yöneticiliği ile teknik içerik üretimi ve topluluk koordinasyonu süreçlerinde yer aldım.
 
 ---
 
@@ -31,22 +31,22 @@ Yapay zeka, bilgisayarlı görü (computer vision), gömülü sistemler ve moder
 ### 🚀 Öne Çıkan Projelerim
 
 * 🏛️ **[Akıllı Belediye Sistemi (Bitirme Projesi)]**  
-  Vatandaş şikayetlerini YOLOv5 ve TensorFlow modelleriyle otomatik sınıflandıran, yerel yönetimler için veri seti üreten Flutter & Firebase tabanlı akıllı mobil platform[cite: 6].
+  Vatandaş şikayetlerini YOLOv5 ve TensorFlow modelleriyle otomatik sınıflandıran, yerel yönetimler için veri seti üreten Flutter & Firebase tabanlı akıllı mobil platform.
 
 * 📊 **[İdeal Mola Süresi ve İş Memnuniyeti Tahmin Modeli]**  
-  Çalışanların davranışsal ve performans verilerini analiz ederek Random Forest ve Gradient Boosting algoritmalarıyla optimum mola süresi ve memnuniyet tahmini yapan ML projesi[cite: 6].
+  Çalışanların davranışsal ve performans verilerini analiz ederek Random Forest ve Gradient Boosting algoritmalarıyla optimum mola süresi ve memnuniyet tahmini yapan ML projesi.
 
 * 🧩 **[3D Sentetik Veri & Video İşleme Pipeline'ı (Spikedge)]**  
-  Blender Python API ile yapay zeka modelleri için 3D sentetik veri üretimi otomasyonu ve OpenCV video işleme hattı[cite: 6].
+  Blender Python API ile yapay zeka modelleri için 3D sentetik veri üretimi otomasyonu ve OpenCV video işleme hattı.
 
 * 📡 **[Sensör Verisi Toplama ve Entegrasyon (TÜBİTAK-SAGE)]**  
-  C++ ile donanım sensör verilerinin gerçek zamanlı toplanması, filtrelenmesi, performans optimizasyonu ve hata ayıklama süreçleri[cite: 6].
+  C++ ile donanım sensör verilerinin gerçek zamanlı toplanması, filtrelenmesi, performans optimizasyonu ve hata ayıklama süreçleri.
 
 * 🌐 **[Psikolog & Danışan Web Platformu]**  
-  Kullanıcı profilleri, dinamik randevu takvimi ve terapi içerikleri sunan responsive web platformu (HTML, CSS, JavaScript)[cite: 6].
+  Kullanıcı profilleri, dinamik randevu takvimi ve terapi içerikleri sunan responsive web platformu (HTML, CSS, JavaScript).
 
 * 🕹️ **[Unity VR/AR Etkileşimli Oyun Projeleri]**  
-  Unity ve Vuforia SDK kullanılarak geliştirilen hedef takipli sanal ve artırılmış gerçeklik oyun mekanikleri[cite: 6].
+  Unity ve Vuforia SDK kullanılarak geliştirilen hedef takipli sanal ve artırılmış gerçeklik oyun mekanikleri.
 
 ---
 
