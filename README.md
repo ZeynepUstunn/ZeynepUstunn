@@ -1,6 +1,6 @@
 # 👩‍💻 Merhaba! Ben Zeynep Üstün
 
-🎓 **Ankara Yıldırım Beyazıt Üniversitesi Bilgisayar Mühendisliği** mezunuyum (2021 - 2026)[cite: 6].  
+🎓 **Ankara Yıldırım Beyazıt Üniversitesi Bilgisayar Mühendisliği** mezunuyum (2021 - 2026).  
 Yapay zeka, bilgisayarlı görü (computer vision), gömülü sistemler ve modern yazılım mimarileri üzerine çalışıyor; veriyi ve algoritmaları uçtan uca çözümlere dönüştürüyorum[cite: 6].
 
 ---
